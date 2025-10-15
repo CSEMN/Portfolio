@@ -391,8 +391,8 @@ article .icon {
 }
 
 .contact-info-upper-container {
-  flex-direction: column;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
